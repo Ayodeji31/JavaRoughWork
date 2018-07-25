@@ -35,7 +35,7 @@ public class ForLoops {
 
 			System.out.println(loopVal + " times " + times_table + " = " + addition);
 
-			}
+		}
 			
 		
 		
