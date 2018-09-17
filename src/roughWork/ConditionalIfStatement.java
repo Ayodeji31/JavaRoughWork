@@ -2,7 +2,11 @@ package roughWork;
 
 public class ConditionalIfStatement {
 	
+	 
+	
 	public static void main(String[] args){
+		
+		int speed = 60;
 		
 		int user = 50;
 		
@@ -25,6 +29,12 @@ public class ConditionalIfStatement {
 		else{
 			
 			System.out.println("User is older than 40");
+		}
+		
+		if(speed==60){
+			System.out.println("Thank you");
+		}else{
+			System.out.println("Reduce your speed, speed kills");
 		}
 	}
 
