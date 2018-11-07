@@ -22,5 +22,9 @@ public class MyMethods {
 		
 		return a_Value;
 	}
+	void print_text (String aString, int aVal){
+		
+		System.out.println(aString + aVal);
+	}
 	
 }

@@ -15,6 +15,8 @@ public class TestMethods {
 		
 		System.out.println("Method result = " + aVal2 );
 		
+		tap.print_text("The value was " , aVal2);
+		
 	}
 	
 }
